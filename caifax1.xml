@@ -2,12 +2,11 @@
  
  
  
-<item>
-<title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] TDT ESPANA [/COLOR][COLOR=yellow]>>[/COLOR]</title>  
-<link>http://??</link>
-<thumbnail>http://imagenes.es.sftkdsajkldsadjsad77567dsa99saghdshhdds.net/es/scrn/69676000/69676099/espana-tv-10-700x393.jpg</thumbnail>
-<fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
-</item>
+<channel>
+<name>DEPORTES</name>
+<Thumbnail>*****</thumbnail>
+<fanart>*******</fanart>
+<items>
  
 <item>
 <title>LA 1</title>
@@ -147,6 +146,10 @@
 <agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
  
 </item>
+
+</items>
+</channel>
+
  
 <item>
 <title>GRAN HERMANO 17 (CANAL TEMPORAL)</title>
