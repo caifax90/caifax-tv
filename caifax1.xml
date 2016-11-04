@@ -74,18 +74,11 @@
 <info></info>
 </item>
  
-<item>
-<title>NOVA</title>
-<link>|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>http://www.formulatv.com/images/noticias/27700/27743/1.jpg</thumbnail>
-<fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
-<info></info>
-</item>
- 
+
 
 <item>
 <title>PARAMOUNT CHANNEL</title>
-<link>http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/paramountchannel_bicvdui/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<link>http://kdsajkldsadjsab77576dsa99saghdshhdds.sitenow.me/live/paramount_b2betoz/chunklist.m3u8?st=WpX5oePQYnksE-hOeHojOg&e=1478352302|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <thumbnail>http://cinestrenostv.tv/img/paramountchannel.png</thumbnail>
  
 </item>
@@ -165,7 +158,7 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR green]• [/COLOR] Andalucia TV</title>
+<title>ANDALUCIA TV</title>
 <link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ</thumbnail>
 <fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
@@ -269,6 +262,13 @@
  
 </item>
 
+<item>
+<title>DARK</title>
+<link>http://kdsajkldsadjsab77576dsa99saghdshhdds.sitenow.me/live/dark_bniikxc/chunklist.m3u8?st=BtRgIKKabtnSuzUsBjXDBw&e=1478352792|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>http://www.omicrono.com/wp-content/uploads/2016/10/dark.jpg</thumbnail>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+ 
+</item>
 
  
 <item>
@@ -441,11 +441,7 @@
 
 
 
-<item>
-<title></title>
-<link>|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+
 
 
 <item>
@@ -472,13 +468,7 @@
 </item>
 
 
-<item>
- <title>BEIN LA LIGA </title>
-<link>https://goodgame.ru/player?93108|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>http://cinestrenostv.tv/img/beinlaliga.png</thumbnail>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-</item>
- 
+
 <item>
 <title>BEIN SPORTS  </title>
 <link>http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/bein_alwkqfq/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
@@ -515,7 +505,7 @@
 
 <item>
 <title>M+ DEPORTES 1</title>
-<link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/deportes_13uk31p/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<link>http://kdsajkldsadjsab77576dsa99saghdshhdds.sitenow.me/live/deportes_bijr3le/chunklist.m3u8?st=wNzdYadEcXAVo0YZsq0b6g&e=1478352951|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <thumbnail>http://cinestrenostv.tv/img/deportes.png</thumbnail>
 <agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
  
@@ -622,38 +612,6 @@
  
  
  
-<item>
-<title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Colombia [/COLOR][COLOR=yellow]>>[/COLOR]</title>  
-<link>http://??</link>
-<thumbnail>http://www.banderas-mundo.es/data/flags/ultra/co.png</thumbnail>
-</item>
- 
- 
-<item>
-<title>CANAL CARACOL</title>
-<link>http://208.75.225.28:1935/live/cdivertihd/chunklist.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-14Av8RCB1Bk/VfLeVI1qIyI/AAAAAAAAHRc/UJgAdDkq_wA/s1600/caracol-hd-bolivia.png</thumbnail>
-<fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
-<info>television colombia</info>
-</item>
- 
- 
-<item>
-<title>CANAL RCN</title>
-<link>http://208.75.225.28:1935/live/rdivertihd/chunklist.m3u8</link>
-<thumbnail>http://www.canalrcn.com/exclusivas/sites/default/files/rcntelevisionlogo_0.jpg</thumbnail>
-<fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
-<info>television colombia</info>
-</item>
-
-<item>
-<title>TELEMUNDO</title>
-<link>http://stream.ssh101.com:1935/live/anahix2/chunklist.m3u8</link>
-<thumbnail>http://www.canalrcn.com/exclusivas/sites/default/files/rcntelevisionlogo_0.jpg</thumbnail>
-<fanart>http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png</fanart>
-<info></info>
-</item>
-
 
 <item>
 <title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] CANAL EN PRUEBA F4MTESTER [/COLOR][COLOR=yellow]>>[/COLOR]</title>  
