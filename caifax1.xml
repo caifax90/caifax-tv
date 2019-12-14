@@ -19,7 +19,7 @@
  
 <item>
 <title>LA 2</title>
-<link>http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8</link>
+<urlresolver>ftp://51.77.67.67/01%20SERIES%20Y%20NOVELAS/3%20CAINES/Temporada%201/1x01.mp4</urlresolver>
 <thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500.jpg</thumbnail>
 <fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
 <info></info>
